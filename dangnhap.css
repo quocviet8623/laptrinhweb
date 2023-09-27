@@ -1,0 +1,51 @@
+
+form {
+    width: 450px;
+    margin: auto;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 130px 32px 37px 377px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input[type="text"],
+input[type="matkhau"] {
+    width: 380px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+input[type="submit"] {
+    background-color: green;
+    color: white;
+    margin: 0px 10px 0px 150px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: green;
+}
+
+.error {
+    color: red;
+    margin-bottom: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+.dangnhap {
+    text-align: center;
+    margin: 9px 133px 8px 92px;
+} 
